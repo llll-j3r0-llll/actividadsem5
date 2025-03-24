@@ -7,8 +7,11 @@ Este proyecto es un sistema de gestión de biblioteca desarrollado en Java, que 
 Este sistema busca proporcionar una solución simple pero efectiva para la gestión de bibliotecas, permitiendo:
 
 ✅ Registrar nuevos libros y usuarios.
+
 ✅ Gestionar préstamos y devoluciones de libros.
+
 ✅ Consultar la disponibilidad de los libros.
+
 ✅ Ver el historial de préstamos de cada usuario.
 
 🛠️ Decisiones de Diseño
